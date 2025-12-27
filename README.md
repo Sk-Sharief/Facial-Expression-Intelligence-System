@@ -28,7 +28,7 @@ A real-time face-emotion detection heads-up display (HUD) built with **OpenCV** 
 
 ```bash
 git clone https://github.com/Sk-Sharief/Facial-Expression-Intelligence-System.git
-cd <repo-name>
+cd <Facial-Expression-Intelligence-System>
 ```
 
 2. Create and activate a virtual environment (recommended)
